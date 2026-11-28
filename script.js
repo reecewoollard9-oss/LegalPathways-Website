@@ -92,49 +92,66 @@ const topicText = {
 
     
 
+
 ncfe: `Understanding NCFE qualifications —
 
-NCFE qualifications is a UK vocational qualification awarded by the Northern Council for Further Education.
-
-- NCFE level 1 = Introductory
-- NCFE level 2 = GCSE equivalent
-- NCFE level 3 = A-level equivalent
-
-It has 2 purposes:
-- To prepare students for specific careers such as healthcare.
-- Allow students to progress to higher education.
+- NCFE is a UK vocational qualification awarded by the Northern Council for Further Education.
+- NCFE Level 1 = Introductory.
+- NCFE Level 2 = GCSE equivalent.
+- NCFE Level 3 = A-level equivalent.
+- NCFE qualifications have two purposes: to prepare students for specific careers, such as healthcare, and to allow students to progress to higher education.
 - Several course pages reviewed do not specify which NCFE Level 3 awards they accept.
 - Applicants should confirm whether their exact qualification meets the course requirements.`,
 
 "law-routes": `Law degree opportunities —
 
-- [Insert first researched point]
-- [Insert second researched point]
-- [Insert third researched point]`,
+- Birmingham City University offers Law LLB (Hons). Its published requirements include NCFE CACHE Level 3 qualifications at 112 UCAS points. Other routes include A levels at BBC, BTEC at 112 points, T Level at Merit, and Access to HE with 60 credits, including at least 45 at Level 3.
+- Birmingham City University also offers Law with Foundation Year, listing 80 UCAS points and NCFE CACHE Level 3 qualifications at that tariff level.
+- Ulster University offers Law LLB (Hons). Its 2027/28 course page lists A levels at BBB and an Applied General Award profile of DDM. Its qualification checker should be used to check whether an individual NCFE qualification is recognised.
+- UWE Bristol offers Law LLB (Hons), with 112 UCAS points for direct entry. Its foundation-year route lists 48 UCAS points and considers Level 3 qualifications towards entry requirements.
+- The University of Huddersfield lists 112–120 UCAS points for its 2027/28 Law LLB (Hons). Applicants with NCFE qualifications should confirm the qualification-specific offer before applying.
+- The University of Brighton offers Law LLB (Hons) with Integrated Foundation Year, with a 2027 offer of 72–80 UCAS points. Other Level 3 qualifications are considered individually.`,
 
 "paramedic-routes": `Paramedic Science opportunities —
 
-- [Insert first researched point]
-- [Insert second researched point]
-- [Insert third researched point]`,
+- Birmingham City University lists NCFE CACHE Level 3 qualifications at 120 UCAS points. The course also specifies relevant Health, Healthcare Science or Science subjects for some qualification routes. Applicants should confirm the exact CACHE award with admissions.
+- The University of Lincoln specifically lists NCFE CACHE Level 3 Technical Occupational Entry in Social Care (Diploma) at Distinction. It also lists relevant T Levels at Merit and Access to HE routes. GCSE requirements include English, Maths and Science at grade 4 or above, or accepted equivalents.
+- Teesside University specifically names the CACHE Level 3 Extended Diploma in Health and Social Care, requiring 120 UCAS points, stated as grade B. It also lists relevant BTEC routes and requires GCSE English Language and Maths at grade 4 or above.
+- Liverpool John Moores University explicitly accepts the CACHE Level 3 Extended Diploma in Health and Social Care at grade B or above, or in combination with other relevant qualifications. Applicants must also demonstrate relevant healthcare or caring experience.
+- UWE Bristol requires 120 UCAS points and a Science or Social Science subject. Health and Social Care appears on its relevant-subject list, but applicants should ask admissions how it assesses their exact NCFE award.
+- Other universities researched include Coventry, Wolverhampton, Ulster, Sunderland, Portsmouth, Edge Hill, Worcester, Hertfordshire and Brighton. Their published pages do not all name specific NCFE awards, so applicants should check their exact qualification with admissions.
+- Some courses also have additional requirements, such as interviews, relevant experience, occupational health checks, DBS checks or minimum age requirements.`,
 
 "policing-routes": `Policing and uniformed services —
 
-- [Insert first researched point]
-- [Insert second researched point]
-- [Insert third researched point]`,
+- The University of Derby offers Policing and Investigations BA (Hons), listing 112 UCAS points. Its published entry requirements do not name a specific NCFE qualification, so applicants should check whether their exact award is accepted.
+- Derby also offers an alternative route: applicants who successfully complete its Foundation in Policing qualification, run with Nottinghamshire Police and Derbyshire Constabulary, qualify for entry.
+- The University of South Wales offers Public Services BA (Hons), with an 80 UCAS point standard entry requirement. Its published requirements do not name a specific NCFE qualification.
+- The University of South Wales also offers Public Services with Foundation Year, listing 48 UCAS points.
+- The University of Wales Trinity Saint David offers Professional Policing BSc (Hons), with a published entry requirement of 96 UCAS points. Its course listing does not name an NCFE Policing or Uniformed Services award.
+- The University of Portsmouth offers Professional Policing BSc (Hons), requiring 104–120 UCAS points from three A levels or equivalent. Its page does not specify which NCFE Policing or Uniformed Services awards meet this equivalence.
+- Other researched options include Professional Policing courses at Edge Hill University, the University of Worcester and the University of Huddersfield. Applicants should check the exact qualification requirements with each university.`,
 
 "foundation-routes": `Foundation-year routes —
 
-- [Insert first researched point]
-- [Insert second researched point]
-- [Insert third researched point]`,
+- Birmingham City University offers Law with Foundation Year, listing 80 UCAS points and NCFE CACHE Level 3 qualifications at that tariff level.
+- The University of South Wales offers Public Services with Foundation Year, listing 48 UCAS points. Accepted examples include A levels at DD, BTEC Extended Diploma at PPP, Access to HE Pass and T Level Pass.
+- The University of Lancashire offers Fire and Leadership Studies with Foundation Year, listing 56 UCAS points. Its published routes include BTEC Extended Diploma at MPP and Access to HE worth 56 points.
+- UWE Bristol offers Law with Foundation Year, listing 48 UCAS points. The university considers Level 3 qualifications towards its entry requirements.
+- The University of Sunderland offers Law LLB with Integrated Foundation Year. Its published 2026/27 route normally asks for 40 UCAS points from Level 3 qualifications, alongside three Level 2 qualifications.
+- The University of Portsmouth offers Law LLB (Hons) with Foundation Year through International College Portsmouth (ICP), listing 32 UCAS points at A level or equivalent. Successful completion of the foundation year guarantees a place on its LLB Law.
+- The University of Brighton offers Law LLB (Hons) with Integrated Foundation Year, with a 2027 offer of 72–80 UCAS points. Other Level 3 qualifications are considered individually.`,
 
 "checking-requirements": `Checking course requirements —
 
-- [Insert first researched point]
-- [Insert second researched point]
-- [Insert third researched point]`
+- A university listing a UCAS point requirement does not automatically mean it accepts every NCFE Level 3 qualification.
+- Some universities specifically name the NCFE CACHE award they accept, while others consider qualifications individually or do not identify a specific NCFE award.
+- Applicants should check the exact qualification title and qualification number, particularly where a certificate or diploma has a different title.
+- Check whether the course requires a particular subject, such as Health, Healthcare Science, Science or Social Science. Meeting the overall UCAS points requirement may not be enough.
+- Check GCSE requirements carefully. Some courses require English, Maths and Science at grade 4/C or above, while others specify different requirements or accepted equivalents.
+- Some courses have additional conditions, including interviews, relevant healthcare or caring experience, occupational health checks, DBS checks, driving licence requirements or minimum age requirements.
+- Foundation-year routes may have different UCAS point requirements and qualification conditions from direct-entry courses.
+- Course requirements can vary by university, campus and year of entry. Always check the current course page and contact admissions to confirm whether the exact qualification is accepted.`
 };
 
 
